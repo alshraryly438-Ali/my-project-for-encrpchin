@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import base64
 
-# الدوال الأساسية للتشفير وفك التشفير
+# ووووووو الدوال الأساسية للتشفير وفك التشفير
 def swap(si, sj):
     return sj, si
 
